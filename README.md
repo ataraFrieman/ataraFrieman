@@ -32,8 +32,8 @@ Data structure: mongo-db
 And a combination of external libraries
 
 links:
-client: https://github.com/kod-ze-shira/KnowMe.page-Dev-client/tree/marketplace
-server: https://github.com/kod-ze-shira/Knowme.page-Dev-Server/tree/Versi%C3%B3n_3
+* client: https://github.com/kod-ze-shira/KnowMe.page-Dev-client/tree/marketplace
+* server: https://github.com/kod-ze-shira/Knowme.page-Dev-Server/tree/Versi%C3%B3n_3
 
 site:
 knowme.page
