@@ -49,7 +49,7 @@ Data structure: mongo-db
 And a combination of external libraries
 
 links:
-client: https://github.com/ataraFrieman/taskManager-client
-server: https://github.com/ataraFrieman/taskmanager-server
+* client: https://github.com/ataraFrieman/taskManager-client
+* server: https://github.com/ataraFrieman/taskmanager-server
 
 
